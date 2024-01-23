@@ -9,7 +9,7 @@ body{
     color:white;
 
 }
-#header{
+.header{
     width: 100%;
     height: 180vh;
     background-image: url(photos/profile.png);
