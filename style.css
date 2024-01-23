@@ -9,12 +9,13 @@ body{
     color:white;
 
 }
-.header{
+#header{
     width: 100%;
     height: 180vh;
     background-image: url(photos/profile.png);
     background-size: cover;
     background-position: center;
+    background-color: red;
 }
 .container{
     padding: 10px 10%
